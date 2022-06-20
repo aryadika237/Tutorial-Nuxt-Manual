@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\bootcamp\\\\Nuxt Js\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_5f9b349e"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\bootcamp\\\\Nuxt Js\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_2fc54d1e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\user\\\\Desktop\\\\bootcamp\\\\Nuxt Js\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7f530f63"
+  }
+]
